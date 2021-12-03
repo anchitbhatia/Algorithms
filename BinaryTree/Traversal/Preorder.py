@@ -1,4 +1,4 @@
-// Iterative preorder
+# Iterative preorder
 
 def preorderTraversal(self, root):
         result = []
@@ -17,7 +17,7 @@ def preorderTraversal(self, root):
         return result
         
         
-// recursive Preorder
+# recursive Preorder
 
 def recursiveTraversal(self, root, result):
         if root:
